@@ -3,7 +3,7 @@
 ```
 https://colab.research.google.com/drive/1s8zAmDGTibaqXoyCxUXGuyV5fwcu_RCH?usp=sharing
 ```
-Статистика:
+***Статистика:*** \
 Общее кол-во предсказанных генов: 
 ```
 !grep '>' proteins.fasta | wc -l
