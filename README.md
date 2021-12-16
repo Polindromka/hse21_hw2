@@ -3,6 +3,10 @@
 ```
 https://colab.research.google.com/drive/1s8zAmDGTibaqXoyCxUXGuyV5fwcu_RCH?usp=sharing
 ```
+Ссылка на второй ноутбук:
+```
+https://colab.research.google.com/drive/1dNfrDDYxWdmeuTCgTqyADfYOa7iX_qNe?usp=sharing
+```
 ***Статистика:*** \
 Общее кол-во предсказанных генов: 
 ```
